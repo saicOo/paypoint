@@ -6,8 +6,16 @@ A point of sale admin can help organize and track inventory in a business. The t
 - Admin Dashboard
 - Products List
 - Categories List
+- Stocktaking List
+- Users List
+- Supplier List
+- Clients List 
+- Purchases List
 - Sales List
-  
+- Payments List
+- Permissions For Users
+- POS
+
 ## Core Features
 
 - Bootstrap 4 Version
