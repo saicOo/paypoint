@@ -1,4 +1,4 @@
-# Paypoint
+# PayPoint
 
 A point of sale admin can help organize and track inventory in a business. The template includes fields for items, quantities, prices, and descriptions. It also includes fields for customer information, such as name and address. This information can help the business keep track of its inventory and meet customers’ needs.
 
