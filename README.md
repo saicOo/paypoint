@@ -25,8 +25,10 @@ A point of sale admin can help organize and track inventory in a business. The t
 - Font Awesome 5.15.1
 - jquery-3.5.1
 - Datatables
-- select2
+- Select2
+- Dropify
 - Toastr Notifications
+- Chart.js
 - Fully Responsive Layout
 - SEO Optimized
 - Laravel 8.x demo and startup version
