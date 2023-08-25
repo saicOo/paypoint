@@ -24,9 +24,12 @@ A point of sale admin can help organize and track inventory in a business. The t
 - HTML5 & CSS3
 - Font Awesome 5.15.1
 - jquery-3.5.1
+- Datatables
+- select2
 - Toastr Notifications
 - Fully Responsive Layout
 - SEO Optimized
 - Laravel 8.x demo and startup version
+- [Quixlab Admin Dashboard Template](https://themeforest.net/user/quixlab)
 
 Live Preview [demo](https://pos-plus.rf.gd/)
