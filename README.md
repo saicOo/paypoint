@@ -15,6 +15,8 @@ A point of sale admin can help organize and track inventory in a business. The t
 - Payments List
 - Permissions For Users
 - POS
+- Import & Export Products
+- General Settings
 
 ## Core Features
 
